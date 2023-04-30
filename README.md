@@ -1,1 +1,1 @@
-# Hand_pose_face_detections
+# Here i am obtaining the landmakrs of whole human body using mediapipe
